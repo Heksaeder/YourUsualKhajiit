@@ -1,0 +1,19 @@
+# Visual Studio Code directories
+.vscode/
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# DLL files
+*.dll
+
+# NuGet
+*.nupkg
+*.pdb
